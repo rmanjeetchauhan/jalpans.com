@@ -1,0 +1,33 @@
+Test Merchant ID
+ieiAbu45745093805802
+
+Test Merchant Key
+R3RmE7XF&5Lkoipi
+
+Website
+WEBSTAGING
+
+Industry Type
+Retail
+
+Channel ID (For Website)
+WEB
+
+Channel ID (For Mobile Apps)
+WAP
+
+Transaction URL
+https://securegw-stage.paytm.in/order/process
+
+Transaction Status URL
+https://securegw-stage.paytm.in/order/status
+
+
+
+Production - https://securegw.paytm.in
+Staging - https://securegw-stage.paytm.in
+
+
+
+
+Array ( [ORDERID] => ORDS7719449 [MID] => ieiAbu45745093805802 [TXNID] => 20200611111212800110168452501613868 [TXNAMOUNT] => 1.00 [PAYMENTMODE] => CC [CURRENCY] => INR [TXNDATE] => 2020-06-11 15:19:22.0 [STATUS] => TXN_SUCCESS [RESPCODE] => 01 [RESPMSG] => Txn Success [GATEWAYNAME] => HDFC [BANKTXNID] => 777001889940789 [BANKNAME] => Kotak Bank [CHECKSUMHASH] => OwV8rUvuzafCRACNUutgNmi5ZExqT7D60eQ5VBLB9wX8WV+PXiVYF/ldz7Lx1JiAa4CJVEM6/beeRRH1RCI6VeJ8VSySNLVOZtWxwhXAfbU= )

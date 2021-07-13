@@ -1,0 +1,136 @@
+[11-Feb-2019 12:25:51 Etc/GMT] PHP Parse error:  syntax error, unexpected '"email"' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/codes36f/public_html/book-my-hotel/script/hotel-admin/add-hotel.php on line 48
+[12-Feb-2019 08:59:03 Etc/GMT] PHP Notice:  Undefined index: location_id in /home/codes36f/public_html/book-my-hotel/script/hotel-admin/add-hotel.php on line 16
+[13-Feb-2019 07:14:06 Etc/GMT] PHP Notice:  Undefined index: roomtypearea in /home/codes36f/public_html/book-my-hotel/script/hotel-admin/add-rooms.php on line 9
+[19-Feb-2019 13:15:01 Etc/GMT] PHP Notice:  Undefined index: rooms_type in /home/codes36f/public_html/book-my-hotel/script/hotel-admin/add-rooms.php on line 9
+[25-Feb-2019 06:34:26 Etc/GMT] PHP Notice:  Undefined variable: url in /home/codes36f/public_html/book-my-hotel/script/hotel/login.php on line 12
+[26-Mar-2019 09:48:43 Etc/GMT] PHP Notice:  Undefined index: extraCharge in /home/codes36f/public_html/book-my-hotel/script/hotel/add-rooms.php on line 25
+[26-Mar-2019 10:16:20 Etc/GMT] PHP Notice:  Undefined index: extraCharge in /home/codes36f/public_html/book-my-hotel/script/hotel/add-rooms.php on line 25
+[26-Mar-2019 10:16:43 Etc/GMT] PHP Notice:  Undefined index: extraCharge in /home/codes36f/public_html/book-my-hotel/script/hotel/add-rooms.php on line 25
+[30-Mar-2019 11:04:19 Etc/GMT] PHP Notice:  Undefined index: extraCharge in /home/codes36f/public_html/book-my-hotel/script/hotel/add-rooms.php on line 25
+[30-Mar-2019 11:22:51 Etc/GMT] PHP Notice:  Undefined index: extraCharge in /home/codes36f/public_html/book-my-hotel/script/hotel/add-rooms.php on line 25
+[30-Mar-2019 11:26:09 Etc/GMT] PHP Notice:  Undefined index: extraCharge in /home/codes36f/public_html/book-my-hotel/script/hotel/add-rooms.php on line 25
+[30-Mar-2019 11:35:26 Etc/GMT] PHP Notice:  Undefined index: extraCharge in /home/codes36f/public_html/book-my-hotel/script/hotel/add-rooms.php on line 25
+[30-Mar-2019 11:38:56 Etc/GMT] PHP Notice:  Undefined index: extraCharge in /home/codes36f/public_html/book-my-hotel/script/hotel/add-rooms.php on line 25
+[30-Mar-2019 11:46:01 Etc/GMT] PHP Notice:  Undefined index: extraCharge in /home/codes36f/public_html/book-my-hotel/script/hotel/add-rooms.php on line 25
+[09-Apr-2019 12:02:08 Etc/GMT] PHP Notice:  Undefined index: location_id in /home/codes36f/public_html/adventure-bookings/script/vendors/add-package.php on line 13
+[15-Apr-2019 06:53:53 Etc/GMT] PHP Notice:  Undefined index: txtlocation in /home/codes36f/public_html/adventure-bookings/script/vendors/add-package.php on line 9
+[15-Apr-2019 06:53:53 Etc/GMT] PHP Notice:  Undefined index: latitude in /home/codes36f/public_html/adventure-bookings/script/vendors/add-package.php on line 11
+[15-Apr-2019 06:53:53 Etc/GMT] PHP Notice:  Undefined index: longitude in /home/codes36f/public_html/adventure-bookings/script/vendors/add-package.php on line 12
+[15-Apr-2019 06:53:53 Etc/GMT] PHP Notice:  Undefined index: location_id in /home/codes36f/public_html/adventure-bookings/script/vendors/add-package.php on line 13
+[17-Apr-2019 10:18:36 Etc/GMT] PHP Notice:  Undefined index: stay_type in /home/codes36f/public_html/adventure-bookings/script/vendors/add-package.php on line 8
+[17-Apr-2019 10:18:36 Etc/GMT] PHP Notice:  Undefined index: txtlocation in /home/codes36f/public_html/adventure-bookings/script/vendors/add-package.php on line 10
+[17-Apr-2019 10:18:36 Etc/GMT] PHP Notice:  Undefined index: latitude in /home/codes36f/public_html/adventure-bookings/script/vendors/add-package.php on line 12
+[17-Apr-2019 10:18:36 Etc/GMT] PHP Notice:  Undefined index: longitude in /home/codes36f/public_html/adventure-bookings/script/vendors/add-package.php on line 13
+[17-Apr-2019 10:18:36 Etc/GMT] PHP Notice:  Undefined index: location_id in /home/codes36f/public_html/adventure-bookings/script/vendors/add-package.php on line 14
+[17-Apr-2019 10:42:59 Etc/GMT] PHP Notice:  Undefined index: txtlocation in /home/codes36f/public_html/adventure-bookings/script/vendors/add-package.php on line 10
+[17-Apr-2019 10:42:59 Etc/GMT] PHP Notice:  Undefined index: latitude in /home/codes36f/public_html/adventure-bookings/script/vendors/add-package.php on line 12
+[17-Apr-2019 10:42:59 Etc/GMT] PHP Notice:  Undefined index: longitude in /home/codes36f/public_html/adventure-bookings/script/vendors/add-package.php on line 13
+[17-Apr-2019 10:42:59 Etc/GMT] PHP Notice:  Undefined index: location_id in /home/codes36f/public_html/adventure-bookings/script/vendors/add-package.php on line 14
+[19-Jul-2019 06:15:15 Etc/GMT] PHP Notice:  Array to string conversion in /home/codes36f/public_html/jalpaan/script/vendors/login.php on line 33
+[19-Jul-2019 06:20:15 Etc/GMT] PHP Notice:  Array to string conversion in /home/codes36f/public_html/jalpaan/script/vendors/login.php on line 33
+[19-Jul-2019 06:21:31 Etc/GMT] PHP Notice:  Array to string conversion in /home/codes36f/public_html/jalpaan/script/vendors/login.php on line 33
+[19-Jul-2019 07:50:37 Etc/GMT] PHP Notice:  Undefined index: txtpincode in /home/codes36f/public_html/jalpaan/script/vendors/signup.php on line 11
+[19-Jul-2019 07:50:49 Etc/GMT] PHP Notice:  Undefined index: txtpincode in /home/codes36f/public_html/jalpaan/script/vendors/signup.php on line 11
+[19-Jul-2019 08:03:41 Etc/GMT] PHP Notice:  Array to string conversion in /home/codes36f/public_html/jalpaan/script/vendors/signup.php on line 61
+[19-Jul-2019 08:06:27 Etc/GMT] PHP Notice:  Array to string conversion in /home/codes36f/public_html/jalpaan/script/vendors/signup.php on line 64
+[19-Jul-2019 08:06:45 Etc/GMT] PHP Notice:  Array to string conversion in /home/codes36f/public_html/jalpaan/script/vendors/signup.php on line 64
+[19-Jul-2019 08:07:23 Etc/GMT] PHP Notice:  Array to string conversion in /home/codes36f/public_html/jalpaan/script/vendors/signup.php on line 64
+[19-Jul-2019 12:59:09 Etc/GMT] PHP Notice:  Undefined index: txtdescription in /home/codes36f/public_html/jalpaan/script/vendors/add-product.php on line 13
+[20-Jul-2019 09:09:19 Etc/GMT] PHP Notice:  Undefined index: txtdescription in /home/codes36f/public_html/jalpaan/script/vendors/add-product.php on line 13
+[20-Jul-2019 16:10:33 Etc/GMT] PHP Notice:  Undefined index: txtdescription in /home/codes36f/public_html/jalpaan/script/vendors/add-product.php on line 13
+[22-Jul-2019 12:16:55 Etc/GMT] PHP Warning:  Illegal string offset 'status' in /home/codes36f/public_html/jalpaan/script/vendors/verify-send-otp.php on line 35
+[22-Jul-2019 12:16:55 Etc/GMT] PHP Warning:  Illegal string offset 'status' in /home/codes36f/public_html/jalpaan/script/vendors/verify-send-otp.php on line 38
+[23-Jul-2019 05:48:28 Etc/GMT] PHP Warning:  Illegal string offset 'status' in /home/codes36f/public_html/jalpaan/script/vendors/verify-send-otp.php on line 35
+[23-Jul-2019 05:48:28 Etc/GMT] PHP Warning:  Illegal string offset 'status' in /home/codes36f/public_html/jalpaan/script/vendors/verify-send-otp.php on line 38
+[23-Jul-2019 07:45:19 Etc/GMT] PHP Warning:  Illegal string offset 'status' in /home/codes36f/public_html/jalpaan/script/vendors/verify-send-otp.php on line 35
+[23-Jul-2019 07:45:19 Etc/GMT] PHP Warning:  Illegal string offset 'status' in /home/codes36f/public_html/jalpaan/script/vendors/verify-send-otp.php on line 38
+[23-Jul-2019 07:45:27 Etc/GMT] PHP Warning:  Illegal string offset 'status' in /home/codes36f/public_html/jalpaan/script/vendors/verify-send-otp.php on line 35
+[23-Jul-2019 07:45:27 Etc/GMT] PHP Warning:  Illegal string offset 'status' in /home/codes36f/public_html/jalpaan/script/vendors/verify-send-otp.php on line 38
+[29-Jul-2019 07:39:46 Etc/GMT] PHP Notice:  Undefined index: id in /home/codes36f/public_html/jalpans.com/script/vendors/change-shop-action.php on line 7
+[29-Jul-2019 07:39:46 Etc/GMT] PHP Notice:  Undefined index: action in /home/codes36f/public_html/jalpans.com/script/vendors/change-shop-action.php on line 8
+[29-Jul-2019 07:43:14 Etc/GMT] PHP Notice:  Undefined index: id in /home/codes36f/public_html/jalpans.com/script/vendors/change-shop-action.php on line 7
+[29-Jul-2019 07:43:14 Etc/GMT] PHP Notice:  Undefined index: action in /home/codes36f/public_html/jalpans.com/script/vendors/change-shop-action.php on line 8
+[29-Jul-2019 07:43:52 Etc/GMT] PHP Notice:  Undefined index: id in /home/codes36f/public_html/jalpans.com/script/vendors/change-shop-action.php on line 7
+[29-Jul-2019 07:43:52 Etc/GMT] PHP Notice:  Undefined index: action in /home/codes36f/public_html/jalpans.com/script/vendors/change-shop-action.php on line 8
+[29-Jul-2019 07:44:55 Etc/GMT] PHP Notice:  Undefined index: id in /home/codes36f/public_html/jalpans.com/script/vendors/change-shop-action.php on line 7
+[29-Jul-2019 07:44:55 Etc/GMT] PHP Notice:  Undefined index: action in /home/codes36f/public_html/jalpans.com/script/vendors/change-shop-action.php on line 8
+[29-Jul-2019 07:46:57 Etc/GMT] PHP Notice:  Undefined index: id in /home/codes36f/public_html/jalpans.com/script/vendors/change-shop-action.php on line 7
+[29-Jul-2019 07:46:57 Etc/GMT] PHP Notice:  Undefined index: action in /home/codes36f/public_html/jalpans.com/script/vendors/change-shop-action.php on line 8
+[29-Jul-2019 07:51:12 Etc/GMT] PHP Notice:  Undefined index: id in /home/codes36f/public_html/jalpans.com/script/vendors/change-shop-action.php on line 7
+[29-Jul-2019 07:51:12 Etc/GMT] PHP Notice:  Undefined index: action in /home/codes36f/public_html/jalpans.com/script/vendors/change-shop-action.php on line 8
+[08-Aug-2019 15:24:14 Etc/GMT] PHP Warning:  Illegal string offset 'status' in /home/codes36f/public_html/jalpans.com/script/vendors/verify-send-otp.php on line 35
+[08-Aug-2019 15:24:14 Etc/GMT] PHP Warning:  Illegal string offset 'status' in /home/codes36f/public_html/jalpans.com/script/vendors/verify-send-otp.php on line 38
+[08-Aug-2019 15:24:15 Etc/GMT] PHP Warning:  Illegal string offset 'status' in /home/codes36f/public_html/jalpans.com/script/vendors/verify-send-otp.php on line 35
+[08-Aug-2019 15:24:15 Etc/GMT] PHP Warning:  Illegal string offset 'status' in /home/codes36f/public_html/jalpans.com/script/vendors/verify-send-otp.php on line 38
+[22-Jun-2020 17:34:46 UTC] PHP Warning:  Illegal string offset 'status' in /home2/jalpansc/public_html/script/vendors/verify-send-otp.php on line 36
+[22-Jun-2020 17:34:46 UTC] PHP Warning:  Illegal string offset 'status' in /home2/jalpansc/public_html/script/vendors/verify-send-otp.php on line 39
+[22-Jun-2020 17:34:49 UTC] PHP Warning:  Illegal string offset 'status' in /home2/jalpansc/public_html/script/vendors/verify-send-otp.php on line 36
+[22-Jun-2020 17:34:49 UTC] PHP Warning:  Illegal string offset 'status' in /home2/jalpansc/public_html/script/vendors/verify-send-otp.php on line 39
+[22-Jun-2020 17:34:54 UTC] PHP Warning:  Illegal string offset 'status' in /home2/jalpansc/public_html/script/vendors/verify-send-otp.php on line 36
+[22-Jun-2020 17:34:54 UTC] PHP Warning:  Illegal string offset 'status' in /home2/jalpansc/public_html/script/vendors/verify-send-otp.php on line 39
+[22-Jun-2020 17:34:56 UTC] PHP Warning:  Illegal string offset 'status' in /home2/jalpansc/public_html/script/vendors/verify-send-otp.php on line 36
+[22-Jun-2020 17:34:56 UTC] PHP Warning:  Illegal string offset 'status' in /home2/jalpansc/public_html/script/vendors/verify-send-otp.php on line 39
+[22-Jun-2020 17:34:58 UTC] PHP Warning:  Illegal string offset 'status' in /home2/jalpansc/public_html/script/vendors/resend-otp-mobile.php on line 34
+[22-Jun-2020 17:35:34 UTC] PHP Warning:  Illegal string offset 'status' in /home2/jalpansc/public_html/script/vendors/verify-send-otp.php on line 36
+[22-Jun-2020 17:35:34 UTC] PHP Warning:  Illegal string offset 'status' in /home2/jalpansc/public_html/script/vendors/verify-send-otp.php on line 39
+[22-Jun-2020 17:35:37 UTC] PHP Warning:  Illegal string offset 'status' in /home2/jalpansc/public_html/script/vendors/verify-send-otp.php on line 36
+[22-Jun-2020 17:35:37 UTC] PHP Warning:  Illegal string offset 'status' in /home2/jalpansc/public_html/script/vendors/verify-send-otp.php on line 39
+[22-Jun-2020 17:35:38 UTC] PHP Warning:  Illegal string offset 'status' in /home2/jalpansc/public_html/script/vendors/verify-send-otp.php on line 36
+[22-Jun-2020 17:35:38 UTC] PHP Warning:  Illegal string offset 'status' in /home2/jalpansc/public_html/script/vendors/verify-send-otp.php on line 39
+[22-Jun-2020 17:35:39 UTC] PHP Warning:  Illegal string offset 'status' in /home2/jalpansc/public_html/script/vendors/verify-send-otp.php on line 36
+[22-Jun-2020 17:35:39 UTC] PHP Warning:  Illegal string offset 'status' in /home2/jalpansc/public_html/script/vendors/verify-send-otp.php on line 39
+[22-Jun-2020 17:35:40 UTC] PHP Warning:  Illegal string offset 'status' in /home2/jalpansc/public_html/script/vendors/verify-send-otp.php on line 36
+[22-Jun-2020 17:35:40 UTC] PHP Warning:  Illegal string offset 'status' in /home2/jalpansc/public_html/script/vendors/verify-send-otp.php on line 39
+[22-Jun-2020 17:35:41 UTC] PHP Warning:  Illegal string offset 'status' in /home2/jalpansc/public_html/script/vendors/verify-send-otp.php on line 36
+[22-Jun-2020 17:35:41 UTC] PHP Warning:  Illegal string offset 'status' in /home2/jalpansc/public_html/script/vendors/verify-send-otp.php on line 39
+[22-Jun-2020 17:35:42 UTC] PHP Warning:  Illegal string offset 'status' in /home2/jalpansc/public_html/script/vendors/verify-send-otp.php on line 36
+[22-Jun-2020 17:35:42 UTC] PHP Warning:  Illegal string offset 'status' in /home2/jalpansc/public_html/script/vendors/verify-send-otp.php on line 39
+[22-Jun-2020 17:35:46 UTC] PHP Warning:  Illegal string offset 'status' in /home2/jalpansc/public_html/script/vendors/resend-otp-mobile.php on line 34
+[22-Jun-2020 17:35:51 UTC] PHP Warning:  Illegal string offset 'status' in /home2/jalpansc/public_html/script/vendors/resend-otp-mobile.php on line 34
+[22-Jun-2020 17:36:32 UTC] PHP Warning:  Illegal string offset 'status' in /home2/jalpansc/public_html/script/vendors/verify-send-otp.php on line 36
+[22-Jun-2020 17:36:32 UTC] PHP Warning:  Illegal string offset 'status' in /home2/jalpansc/public_html/script/vendors/verify-send-otp.php on line 39
+[22-Jun-2020 17:36:34 UTC] PHP Warning:  Illegal string offset 'status' in /home2/jalpansc/public_html/script/vendors/verify-send-otp.php on line 36
+[22-Jun-2020 17:36:34 UTC] PHP Warning:  Illegal string offset 'status' in /home2/jalpansc/public_html/script/vendors/verify-send-otp.php on line 39
+[22-Jun-2020 17:36:36 UTC] PHP Warning:  Illegal string offset 'status' in /home2/jalpansc/public_html/script/vendors/verify-send-otp.php on line 36
+[22-Jun-2020 17:36:36 UTC] PHP Warning:  Illegal string offset 'status' in /home2/jalpansc/public_html/script/vendors/verify-send-otp.php on line 39
+[22-Jun-2020 17:36:38 UTC] PHP Warning:  Illegal string offset 'status' in /home2/jalpansc/public_html/script/vendors/verify-send-otp.php on line 36
+[22-Jun-2020 17:36:38 UTC] PHP Warning:  Illegal string offset 'status' in /home2/jalpansc/public_html/script/vendors/verify-send-otp.php on line 39
+[22-Jun-2020 17:36:39 UTC] PHP Warning:  Illegal string offset 'status' in /home2/jalpansc/public_html/script/vendors/verify-send-otp.php on line 36
+[22-Jun-2020 17:36:39 UTC] PHP Warning:  Illegal string offset 'status' in /home2/jalpansc/public_html/script/vendors/verify-send-otp.php on line 39
+[23-Jun-2020 01:23:07 UTC] PHP Warning:  Illegal string offset 'status' in /home2/jalpansc/public_html/script/vendors/verify-send-otp.php on line 36
+[23-Jun-2020 01:23:07 UTC] PHP Warning:  Illegal string offset 'status' in /home2/jalpansc/public_html/script/vendors/verify-send-otp.php on line 39
+[23-Jun-2020 01:23:14 UTC] PHP Warning:  Illegal string offset 'status' in /home2/jalpansc/public_html/script/vendors/verify-send-otp.php on line 36
+[23-Jun-2020 01:23:14 UTC] PHP Warning:  Illegal string offset 'status' in /home2/jalpansc/public_html/script/vendors/verify-send-otp.php on line 39
+[24-Jun-2020 08:29:03 UTC] PHP Warning:  Illegal string offset 'status' in /home2/jalpansc/public_html/script/vendors/verify-send-otp.php on line 36
+[24-Jun-2020 08:29:03 UTC] PHP Warning:  Illegal string offset 'status' in /home2/jalpansc/public_html/script/vendors/verify-send-otp.php on line 39
+[24-Jun-2020 08:30:09 UTC] PHP Warning:  Illegal string offset 'status' in /home2/jalpansc/public_html/script/vendors/verify-send-otp.php on line 36
+[24-Jun-2020 08:30:09 UTC] PHP Warning:  Illegal string offset 'status' in /home2/jalpansc/public_html/script/vendors/verify-send-otp.php on line 39
+[24-Jun-2020 08:30:26 UTC] PHP Warning:  Illegal string offset 'status' in /home2/jalpansc/public_html/script/vendors/resend-otp-mobile.php on line 34
+[24-Jun-2020 08:52:34 UTC] PHP Warning:  Illegal string offset 'status' in /home2/jalpansc/public_html/script/vendors/verify-send-otp.php on line 36
+[24-Jun-2020 08:52:34 UTC] PHP Warning:  Illegal string offset 'status' in /home2/jalpansc/public_html/script/vendors/verify-send-otp.php on line 39
+[27-Jun-2020 10:10:00 UTC] PHP Warning:  Illegal string offset 'status' in /home2/jalpansc/public_html/script/vendors/verify-send-otp.php on line 36
+[27-Jun-2020 10:10:00 UTC] PHP Warning:  Illegal string offset 'status' in /home2/jalpansc/public_html/script/vendors/verify-send-otp.php on line 39
+[27-Jun-2020 10:15:16 UTC] PHP Warning:  Illegal string offset 'status' in /home2/jalpansc/public_html/script/vendors/verify-send-otp.php on line 36
+[27-Jun-2020 10:15:16 UTC] PHP Warning:  Illegal string offset 'status' in /home2/jalpansc/public_html/script/vendors/verify-send-otp.php on line 39
+[27-Jun-2020 10:15:17 UTC] PHP Warning:  Illegal string offset 'status' in /home2/jalpansc/public_html/script/vendors/verify-send-otp.php on line 36
+[27-Jun-2020 10:15:17 UTC] PHP Warning:  Illegal string offset 'status' in /home2/jalpansc/public_html/script/vendors/verify-send-otp.php on line 39
+[27-Jun-2020 10:18:20 UTC] PHP Warning:  Illegal string offset 'status' in /home2/jalpansc/public_html/script/vendors/verify-send-otp.php on line 36
+[27-Jun-2020 10:18:20 UTC] PHP Warning:  Illegal string offset 'status' in /home2/jalpansc/public_html/script/vendors/verify-send-otp.php on line 39
+[27-Jun-2020 10:18:21 UTC] PHP Warning:  Illegal string offset 'status' in /home2/jalpansc/public_html/script/vendors/verify-send-otp.php on line 36
+[27-Jun-2020 10:18:21 UTC] PHP Warning:  Illegal string offset 'status' in /home2/jalpansc/public_html/script/vendors/verify-send-otp.php on line 39
+[27-Jun-2020 10:18:27 UTC] PHP Warning:  Illegal string offset 'status' in /home2/jalpansc/public_html/script/vendors/verify-send-otp.php on line 36
+[27-Jun-2020 10:18:27 UTC] PHP Warning:  Illegal string offset 'status' in /home2/jalpansc/public_html/script/vendors/verify-send-otp.php on line 39
+[27-Jun-2020 10:18:28 UTC] PHP Warning:  Illegal string offset 'status' in /home2/jalpansc/public_html/script/vendors/verify-send-otp.php on line 36
+[27-Jun-2020 10:18:28 UTC] PHP Warning:  Illegal string offset 'status' in /home2/jalpansc/public_html/script/vendors/verify-send-otp.php on line 39
+[27-Jun-2020 12:39:16 UTC] PHP Warning:  Illegal string offset 'status' in /home2/jalpansc/public_html/script/vendors/verify-send-otp.php on line 36
+[27-Jun-2020 12:39:16 UTC] PHP Warning:  Illegal string offset 'status' in /home2/jalpansc/public_html/script/vendors/verify-send-otp.php on line 39
+[04-Oct-2020 12:08:51 UTC] PHP Warning:  Illegal string offset 'status' in /home2/jalpansc/public_html/script/vendors/verify-send-otp.php on line 36
+[04-Oct-2020 12:08:51 UTC] PHP Warning:  Illegal string offset 'status' in /home2/jalpansc/public_html/script/vendors/verify-send-otp.php on line 39
+[15-Jan-2021 18:02:12 UTC] PHP Warning:  Illegal string offset 'status' in /home/jalpansc/public_html/script/vendors/verify-send-otp.php on line 36
+[15-Jan-2021 18:02:12 UTC] PHP Warning:  Illegal string offset 'status' in /home/jalpansc/public_html/script/vendors/verify-send-otp.php on line 39
+[14-Jun-2021 05:03:48 UTC] PHP Warning:  Illegal string offset 'status' in /home/jalpansc/public_html/script/vendors/signup.php on line 73
+[14-Jun-2021 05:03:48 UTC] PHP Warning:  Illegal string offset 'status' in /home/jalpansc/public_html/script/vendors/signup.php on line 76
+[14-Jun-2021 05:04:42 UTC] PHP Warning:  Illegal string offset 'status' in /home/jalpansc/public_html/script/vendors/verify-send-otp.php on line 36
+[14-Jun-2021 05:04:42 UTC] PHP Warning:  Illegal string offset 'status' in /home/jalpansc/public_html/script/vendors/verify-send-otp.php on line 39
+[14-Jun-2021 05:04:43 UTC] PHP Warning:  Illegal string offset 'status' in /home/jalpansc/public_html/script/vendors/verify-send-otp.php on line 36
+[14-Jun-2021 05:04:43 UTC] PHP Warning:  Illegal string offset 'status' in /home/jalpansc/public_html/script/vendors/verify-send-otp.php on line 39

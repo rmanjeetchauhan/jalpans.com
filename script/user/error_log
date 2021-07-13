@@ -1,0 +1,212 @@
+[19-Feb-2019 09:55:31 Etc/GMT] PHP Warning:  Illegal string offset 'status' in /home/codes36f/public_html/book-my-hotel/script/user/register.php on line 37
+[19-Feb-2019 12:44:13 Etc/GMT] PHP Notice:  Undefined index: txtemail in /home/codes36f/public_html/book-my-hotel/script/user/forgot-password.php on line 8
+[19-Feb-2019 12:45:53 Etc/GMT] PHP Notice:  Undefined index: txtemail in /home/codes36f/public_html/book-my-hotel/script/user/forgot-password.php on line 8
+[19-Feb-2019 12:47:52 Etc/GMT] PHP Notice:  Undefined index: txtemail in /home/codes36f/public_html/book-my-hotel/script/user/forgot-password.php on line 8
+[19-Feb-2019 12:48:13 Etc/GMT] PHP Notice:  Undefined index: txtemail in /home/codes36f/public_html/book-my-hotel/script/user/forgot-password.php on line 8
+[19-Feb-2019 12:49:26 Etc/GMT] PHP Notice:  Undefined index: txtemail in /home/codes36f/public_html/book-my-hotel/script/user/forgot-password.php on line 8
+[19-Feb-2019 12:51:20 Etc/GMT] PHP Notice:  Undefined index: txtforgotemail in /home/codes36f/public_html/book-my-hotel/script/user/forgot-password.php on line 5
+[19-Feb-2019 12:52:01 Etc/GMT] PHP Notice:  Undefined index: txtforgotemail in /home/codes36f/public_html/book-my-hotel/script/user/forgot-password.php on line 5
+[20-Feb-2019 10:58:03 Etc/GMT] PHP Parse error:  syntax error, unexpected '$service_url' (T_VARIABLE) in /home/codes36f/public_html/book-my-hotel/script/user/forgot-password.php on line 8
+[20-Feb-2019 10:58:09 Etc/GMT] PHP Parse error:  syntax error, unexpected '$service_url' (T_VARIABLE) in /home/codes36f/public_html/book-my-hotel/script/user/forgot-password.php on line 8
+[20-Feb-2019 11:46:55 Etc/GMT] PHP Notice:  Undefined index: txtresetkey in /home/codes36f/public_html/book-my-hotel/script/user/booking-history.php on line 17
+[20-Feb-2019 11:46:55 Etc/GMT] PHP Notice:  Undefined index: txtpassword in /home/codes36f/public_html/book-my-hotel/script/user/booking-history.php on line 18
+[20-Feb-2019 11:59:02 Etc/GMT] PHP Notice:  Undefined index: txtforgotemail in /home/codes36f/public_html/book-my-hotel/script/user/forgot-password.php on line 5
+[27-Feb-2019 07:36:52 Etc/GMT] PHP Notice:  Undefined index: userid in /home/codes36f/public_html/book-my-hotel/script/user/update-profile.php on line 5
+[27-Feb-2019 07:37:42 Etc/GMT] PHP Notice:  Undefined index: userid in /home/codes36f/public_html/book-my-hotel/script/user/update-profile.php on line 5
+[27-Feb-2019 07:38:31 Etc/GMT] PHP Notice:  Undefined index: userid in /home/codes36f/public_html/book-my-hotel/script/user/update-profile.php on line 5
+[04-Mar-2019 06:27:05 Etc/GMT] PHP Notice:  Undefined index: txtadult in /home/codes36f/public_html/book-my-hotel/script/user/booking-history.php on line 15
+[04-Mar-2019 06:27:05 Etc/GMT] PHP Notice:  Undefined index: txtchild in /home/codes36f/public_html/book-my-hotel/script/user/booking-history.php on line 16
+[12-Apr-2019 09:28:04 Etc/GMT] PHP Notice:  Undefined index: txtname in /home/codes36f/public_html/adventure-bookings/script/user/register.php on line 7
+[12-Apr-2019 09:28:04 Etc/GMT] PHP Notice:  Undefined index: txtphone in /home/codes36f/public_html/adventure-bookings/script/user/register.php on line 8
+[12-Apr-2019 09:28:04 Etc/GMT] PHP Notice:  Undefined index: txtemail in /home/codes36f/public_html/adventure-bookings/script/user/register.php on line 9
+[12-Apr-2019 09:28:04 Etc/GMT] PHP Notice:  Undefined index: txtaddress in /home/codes36f/public_html/adventure-bookings/script/user/register.php on line 10
+[12-Apr-2019 09:28:04 Etc/GMT] PHP Notice:  Undefined index: txtconpassword in /home/codes36f/public_html/adventure-bookings/script/user/register.php on line 11
+[12-Apr-2019 09:28:42 Etc/GMT] PHP Notice:  Undefined index: txtname in /home/codes36f/public_html/adventure-bookings/script/user/register.php on line 5
+[12-Apr-2019 09:28:42 Etc/GMT] PHP Notice:  Undefined index: txtphone in /home/codes36f/public_html/adventure-bookings/script/user/register.php on line 6
+[12-Apr-2019 09:28:42 Etc/GMT] PHP Notice:  Undefined index: txtemail in /home/codes36f/public_html/adventure-bookings/script/user/register.php on line 7
+[12-Apr-2019 09:28:42 Etc/GMT] PHP Notice:  Undefined index: txtaddress in /home/codes36f/public_html/adventure-bookings/script/user/register.php on line 8
+[12-Apr-2019 09:28:42 Etc/GMT] PHP Notice:  Undefined index: txtconpassword in /home/codes36f/public_html/adventure-bookings/script/user/register.php on line 9
+[13-Apr-2019 09:05:38 Etc/GMT] PHP Notice:  Undefined index: txtuserid in /home/codes36f/public_html/adventure-bookings/script/user/booking.php on line 5
+[13-Apr-2019 09:05:38 Etc/GMT] PHP Notice:  Undefined index: txtname in /home/codes36f/public_html/adventure-bookings/script/user/booking.php on line 6
+[13-Apr-2019 09:05:38 Etc/GMT] PHP Notice:  Undefined index: txtphone in /home/codes36f/public_html/adventure-bookings/script/user/booking.php on line 7
+[13-Apr-2019 09:05:38 Etc/GMT] PHP Notice:  Undefined index: txtemail in /home/codes36f/public_html/adventure-bookings/script/user/booking.php on line 8
+[13-Apr-2019 09:05:38 Etc/GMT] PHP Notice:  Undefined index: txtpackageid in /home/codes36f/public_html/adventure-bookings/script/user/booking.php on line 9
+[13-Apr-2019 09:05:38 Etc/GMT] PHP Notice:  Undefined index: txtpackage in /home/codes36f/public_html/adventure-bookings/script/user/booking.php on line 10
+[13-Apr-2019 09:05:38 Etc/GMT] PHP Notice:  Undefined index: txtrate in /home/codes36f/public_html/adventure-bookings/script/user/booking.php on line 11
+[13-Apr-2019 09:05:38 Etc/GMT] PHP Notice:  Undefined index: txtmember in /home/codes36f/public_html/adventure-bookings/script/user/booking.php on line 12
+[13-Apr-2019 09:05:38 Etc/GMT] PHP Notice:  Undefined index: txtpayableamt in /home/codes36f/public_html/adventure-bookings/script/user/booking.php on line 13
+[13-Apr-2019 09:11:07 Etc/GMT] PHP Notice:  Undefined index: txtuserid in /home/codes36f/public_html/adventure-bookings/script/user/booking.php on line 7
+[13-Apr-2019 09:11:07 Etc/GMT] PHP Notice:  Undefined index: txtname in /home/codes36f/public_html/adventure-bookings/script/user/booking.php on line 8
+[13-Apr-2019 09:11:07 Etc/GMT] PHP Notice:  Undefined index: txtphone in /home/codes36f/public_html/adventure-bookings/script/user/booking.php on line 9
+[13-Apr-2019 09:11:07 Etc/GMT] PHP Notice:  Undefined index: txtemail in /home/codes36f/public_html/adventure-bookings/script/user/booking.php on line 10
+[13-Apr-2019 09:11:07 Etc/GMT] PHP Notice:  Undefined index: txtpackageid in /home/codes36f/public_html/adventure-bookings/script/user/booking.php on line 11
+[13-Apr-2019 09:11:07 Etc/GMT] PHP Notice:  Undefined index: txtpackage in /home/codes36f/public_html/adventure-bookings/script/user/booking.php on line 12
+[13-Apr-2019 09:11:07 Etc/GMT] PHP Notice:  Undefined index: txtrate in /home/codes36f/public_html/adventure-bookings/script/user/booking.php on line 13
+[13-Apr-2019 09:11:07 Etc/GMT] PHP Notice:  Undefined index: txtmember in /home/codes36f/public_html/adventure-bookings/script/user/booking.php on line 14
+[13-Apr-2019 09:11:07 Etc/GMT] PHP Notice:  Undefined index: txtpayableamt in /home/codes36f/public_html/adventure-bookings/script/user/booking.php on line 15
+[13-Apr-2019 09:13:31 Etc/GMT] PHP Notice:  Undefined index: txtuserid in /home/codes36f/public_html/adventure-bookings/script/user/booking.php on line 7
+[13-Apr-2019 09:13:31 Etc/GMT] PHP Notice:  Undefined index: txtname in /home/codes36f/public_html/adventure-bookings/script/user/booking.php on line 8
+[13-Apr-2019 09:13:31 Etc/GMT] PHP Notice:  Undefined index: txtphone in /home/codes36f/public_html/adventure-bookings/script/user/booking.php on line 9
+[13-Apr-2019 09:13:31 Etc/GMT] PHP Notice:  Undefined index: txtemail in /home/codes36f/public_html/adventure-bookings/script/user/booking.php on line 10
+[13-Apr-2019 09:13:31 Etc/GMT] PHP Notice:  Undefined index: txtpackageid in /home/codes36f/public_html/adventure-bookings/script/user/booking.php on line 11
+[13-Apr-2019 09:13:31 Etc/GMT] PHP Notice:  Undefined index: txtpackage in /home/codes36f/public_html/adventure-bookings/script/user/booking.php on line 12
+[13-Apr-2019 09:13:31 Etc/GMT] PHP Notice:  Undefined index: txtrate in /home/codes36f/public_html/adventure-bookings/script/user/booking.php on line 13
+[13-Apr-2019 09:13:31 Etc/GMT] PHP Notice:  Undefined index: txtmember in /home/codes36f/public_html/adventure-bookings/script/user/booking.php on line 14
+[13-Apr-2019 09:13:31 Etc/GMT] PHP Notice:  Undefined index: txtpayableamt in /home/codes36f/public_html/adventure-bookings/script/user/booking.php on line 15
+[13-Apr-2019 09:15:46 Etc/GMT] PHP Notice:  Undefined index: txtuserid in /home/codes36f/public_html/adventure-bookings/script/user/booking.php on line 8
+[13-Apr-2019 09:15:46 Etc/GMT] PHP Notice:  Undefined index: txtname in /home/codes36f/public_html/adventure-bookings/script/user/booking.php on line 9
+[13-Apr-2019 09:15:46 Etc/GMT] PHP Notice:  Undefined index: txtphone in /home/codes36f/public_html/adventure-bookings/script/user/booking.php on line 10
+[13-Apr-2019 09:15:46 Etc/GMT] PHP Notice:  Undefined index: txtemail in /home/codes36f/public_html/adventure-bookings/script/user/booking.php on line 11
+[13-Apr-2019 09:15:46 Etc/GMT] PHP Notice:  Undefined index: txtpackageid in /home/codes36f/public_html/adventure-bookings/script/user/booking.php on line 12
+[13-Apr-2019 09:15:46 Etc/GMT] PHP Notice:  Undefined index: txtpackage in /home/codes36f/public_html/adventure-bookings/script/user/booking.php on line 13
+[13-Apr-2019 09:15:46 Etc/GMT] PHP Notice:  Undefined index: txtrate in /home/codes36f/public_html/adventure-bookings/script/user/booking.php on line 14
+[13-Apr-2019 09:15:46 Etc/GMT] PHP Notice:  Undefined index: txtmember in /home/codes36f/public_html/adventure-bookings/script/user/booking.php on line 15
+[13-Apr-2019 09:15:46 Etc/GMT] PHP Notice:  Undefined index: txtpayableamt in /home/codes36f/public_html/adventure-bookings/script/user/booking.php on line 16
+[13-Apr-2019 09:16:23 Etc/GMT] PHP Notice:  Undefined index: txtuserid in /home/codes36f/public_html/adventure-bookings/script/user/booking.php on line 8
+[13-Apr-2019 09:16:23 Etc/GMT] PHP Notice:  Undefined index: txtname in /home/codes36f/public_html/adventure-bookings/script/user/booking.php on line 9
+[13-Apr-2019 09:16:23 Etc/GMT] PHP Notice:  Undefined index: txtphone in /home/codes36f/public_html/adventure-bookings/script/user/booking.php on line 10
+[13-Apr-2019 09:16:23 Etc/GMT] PHP Notice:  Undefined index: txtemail in /home/codes36f/public_html/adventure-bookings/script/user/booking.php on line 11
+[13-Apr-2019 09:16:23 Etc/GMT] PHP Notice:  Undefined index: txtpackageid in /home/codes36f/public_html/adventure-bookings/script/user/booking.php on line 12
+[13-Apr-2019 09:16:23 Etc/GMT] PHP Notice:  Undefined index: txtpackage in /home/codes36f/public_html/adventure-bookings/script/user/booking.php on line 13
+[13-Apr-2019 09:16:23 Etc/GMT] PHP Notice:  Undefined index: txtrate in /home/codes36f/public_html/adventure-bookings/script/user/booking.php on line 14
+[13-Apr-2019 09:16:23 Etc/GMT] PHP Notice:  Undefined index: txtmember in /home/codes36f/public_html/adventure-bookings/script/user/booking.php on line 15
+[13-Apr-2019 09:16:23 Etc/GMT] PHP Notice:  Undefined index: txtpayableamt in /home/codes36f/public_html/adventure-bookings/script/user/booking.php on line 16
+[13-Apr-2019 09:17:42 Etc/GMT] PHP Notice:  Undefined index: txtuserid in /home/codes36f/public_html/adventure-bookings/script/user/booking.php on line 8
+[13-Apr-2019 09:17:42 Etc/GMT] PHP Notice:  Undefined index: txtname in /home/codes36f/public_html/adventure-bookings/script/user/booking.php on line 9
+[13-Apr-2019 09:17:42 Etc/GMT] PHP Notice:  Undefined index: txtphone in /home/codes36f/public_html/adventure-bookings/script/user/booking.php on line 10
+[13-Apr-2019 09:17:42 Etc/GMT] PHP Notice:  Undefined index: txtemail in /home/codes36f/public_html/adventure-bookings/script/user/booking.php on line 11
+[13-Apr-2019 09:17:42 Etc/GMT] PHP Notice:  Undefined index: txtpackageid in /home/codes36f/public_html/adventure-bookings/script/user/booking.php on line 12
+[13-Apr-2019 09:17:42 Etc/GMT] PHP Notice:  Undefined index: txtpackage in /home/codes36f/public_html/adventure-bookings/script/user/booking.php on line 13
+[13-Apr-2019 09:17:42 Etc/GMT] PHP Notice:  Undefined index: txtrate in /home/codes36f/public_html/adventure-bookings/script/user/booking.php on line 14
+[13-Apr-2019 09:17:42 Etc/GMT] PHP Notice:  Undefined index: txtmember in /home/codes36f/public_html/adventure-bookings/script/user/booking.php on line 15
+[13-Apr-2019 09:17:42 Etc/GMT] PHP Notice:  Undefined index: txtpayableamt in /home/codes36f/public_html/adventure-bookings/script/user/booking.php on line 16
+[13-Apr-2019 09:19:29 Etc/GMT] PHP Notice:  Undefined index: txtuserid in /home/codes36f/public_html/adventure-bookings/script/user/booking.php on line 8
+[13-Apr-2019 09:19:29 Etc/GMT] PHP Notice:  Undefined index: txtname in /home/codes36f/public_html/adventure-bookings/script/user/booking.php on line 9
+[13-Apr-2019 09:19:29 Etc/GMT] PHP Notice:  Undefined index: txtphone in /home/codes36f/public_html/adventure-bookings/script/user/booking.php on line 10
+[13-Apr-2019 09:19:29 Etc/GMT] PHP Notice:  Undefined index: txtemail in /home/codes36f/public_html/adventure-bookings/script/user/booking.php on line 11
+[13-Apr-2019 09:19:29 Etc/GMT] PHP Notice:  Undefined index: txtpackageid in /home/codes36f/public_html/adventure-bookings/script/user/booking.php on line 12
+[13-Apr-2019 09:19:29 Etc/GMT] PHP Notice:  Undefined index: txtpackage in /home/codes36f/public_html/adventure-bookings/script/user/booking.php on line 13
+[13-Apr-2019 09:19:29 Etc/GMT] PHP Notice:  Undefined index: txtrate in /home/codes36f/public_html/adventure-bookings/script/user/booking.php on line 14
+[13-Apr-2019 09:19:29 Etc/GMT] PHP Notice:  Undefined index: txtmember in /home/codes36f/public_html/adventure-bookings/script/user/booking.php on line 15
+[13-Apr-2019 09:19:29 Etc/GMT] PHP Notice:  Undefined index: txtpayableamt in /home/codes36f/public_html/adventure-bookings/script/user/booking.php on line 16
+[13-Apr-2019 09:21:11 Etc/GMT] PHP Notice:  Undefined index: txtuserid in /home/codes36f/public_html/adventure-bookings/script/user/booking.php on line 8
+[13-Apr-2019 09:21:11 Etc/GMT] PHP Notice:  Undefined index: txtname in /home/codes36f/public_html/adventure-bookings/script/user/booking.php on line 9
+[13-Apr-2019 09:21:11 Etc/GMT] PHP Notice:  Undefined index: txtphone in /home/codes36f/public_html/adventure-bookings/script/user/booking.php on line 10
+[13-Apr-2019 09:21:11 Etc/GMT] PHP Notice:  Undefined index: txtemail in /home/codes36f/public_html/adventure-bookings/script/user/booking.php on line 11
+[13-Apr-2019 09:21:11 Etc/GMT] PHP Notice:  Undefined index: txtpackageid in /home/codes36f/public_html/adventure-bookings/script/user/booking.php on line 12
+[13-Apr-2019 09:21:11 Etc/GMT] PHP Notice:  Undefined index: txtpackage in /home/codes36f/public_html/adventure-bookings/script/user/booking.php on line 13
+[13-Apr-2019 09:21:11 Etc/GMT] PHP Notice:  Undefined index: txtrate in /home/codes36f/public_html/adventure-bookings/script/user/booking.php on line 14
+[13-Apr-2019 09:21:11 Etc/GMT] PHP Notice:  Undefined index: txtmember in /home/codes36f/public_html/adventure-bookings/script/user/booking.php on line 15
+[13-Apr-2019 09:21:11 Etc/GMT] PHP Notice:  Undefined index: txtpayableamt in /home/codes36f/public_html/adventure-bookings/script/user/booking.php on line 16
+[13-Apr-2019 09:21:37 Etc/GMT] PHP Notice:  Undefined index: txtuserid in /home/codes36f/public_html/adventure-bookings/script/user/booking.php on line 8
+[13-Apr-2019 09:21:37 Etc/GMT] PHP Notice:  Undefined index: txtname in /home/codes36f/public_html/adventure-bookings/script/user/booking.php on line 9
+[13-Apr-2019 09:21:37 Etc/GMT] PHP Notice:  Undefined index: txtphone in /home/codes36f/public_html/adventure-bookings/script/user/booking.php on line 10
+[13-Apr-2019 09:21:37 Etc/GMT] PHP Notice:  Undefined index: txtemail in /home/codes36f/public_html/adventure-bookings/script/user/booking.php on line 11
+[13-Apr-2019 09:21:37 Etc/GMT] PHP Notice:  Undefined index: txtpackageid in /home/codes36f/public_html/adventure-bookings/script/user/booking.php on line 12
+[13-Apr-2019 09:21:37 Etc/GMT] PHP Notice:  Undefined index: txtpackage in /home/codes36f/public_html/adventure-bookings/script/user/booking.php on line 13
+[13-Apr-2019 09:21:37 Etc/GMT] PHP Notice:  Undefined index: txtrate in /home/codes36f/public_html/adventure-bookings/script/user/booking.php on line 14
+[13-Apr-2019 09:21:37 Etc/GMT] PHP Notice:  Undefined index: txtmember in /home/codes36f/public_html/adventure-bookings/script/user/booking.php on line 15
+[13-Apr-2019 09:21:37 Etc/GMT] PHP Notice:  Undefined index: txtpayableamt in /home/codes36f/public_html/adventure-bookings/script/user/booking.php on line 16
+[02-May-2019 09:22:54 Etc/GMT] PHP Notice:  Undefined index: txtenqpackgeid in /home/codes36f/public_html/adventure-bookings/script/user/inquiry-package.php on line 5
+[03-May-2019 11:06:02 Etc/GMT] PHP Notice:  Undefined index: txtuserid in /home/codes36f/public_html/adventure-bookings/script/user/custom-package-enquire.php on line 5
+[03-May-2019 11:06:02 Etc/GMT] PHP Notice:  Undefined index: txtname in /home/codes36f/public_html/adventure-bookings/script/user/custom-package-enquire.php on line 6
+[03-May-2019 11:06:02 Etc/GMT] PHP Notice:  Undefined index: txtphone in /home/codes36f/public_html/adventure-bookings/script/user/custom-package-enquire.php on line 7
+[03-May-2019 11:06:02 Etc/GMT] PHP Notice:  Undefined index: txtemail in /home/codes36f/public_html/adventure-bookings/script/user/custom-package-enquire.php on line 8
+[03-May-2019 11:06:02 Etc/GMT] PHP Notice:  Undefined variable: id in /home/codes36f/public_html/adventure-bookings/script/user/custom-package-enquire.php on line 20
+[03-May-2019 11:06:49 Etc/GMT] PHP Notice:  Undefined index: txtuserid in /home/codes36f/public_html/adventure-bookings/script/user/custom-package-enquire.php on line 8
+[03-May-2019 11:06:49 Etc/GMT] PHP Notice:  Undefined index: txtname in /home/codes36f/public_html/adventure-bookings/script/user/custom-package-enquire.php on line 9
+[03-May-2019 11:06:49 Etc/GMT] PHP Notice:  Undefined index: txtphone in /home/codes36f/public_html/adventure-bookings/script/user/custom-package-enquire.php on line 10
+[03-May-2019 11:06:49 Etc/GMT] PHP Notice:  Undefined index: txtemail in /home/codes36f/public_html/adventure-bookings/script/user/custom-package-enquire.php on line 11
+[03-May-2019 11:06:49 Etc/GMT] PHP Notice:  Undefined variable: id in /home/codes36f/public_html/adventure-bookings/script/user/custom-package-enquire.php on line 23
+[03-May-2019 11:08:46 Etc/GMT] PHP Notice:  Undefined index: txtuserid in /home/codes36f/public_html/adventure-bookings/script/user/custom-package-enquire.php on line 8
+[03-May-2019 11:08:46 Etc/GMT] PHP Notice:  Undefined index: txtname in /home/codes36f/public_html/adventure-bookings/script/user/custom-package-enquire.php on line 9
+[03-May-2019 11:08:46 Etc/GMT] PHP Notice:  Undefined index: txtphone in /home/codes36f/public_html/adventure-bookings/script/user/custom-package-enquire.php on line 10
+[03-May-2019 11:08:46 Etc/GMT] PHP Notice:  Undefined index: txtemail in /home/codes36f/public_html/adventure-bookings/script/user/custom-package-enquire.php on line 11
+[03-May-2019 11:08:46 Etc/GMT] PHP Notice:  Undefined variable: id in /home/codes36f/public_html/adventure-bookings/script/user/custom-package-enquire.php on line 23
+[03-May-2019 11:08:55 Etc/GMT] PHP Notice:  Undefined index: txtuserid in /home/codes36f/public_html/adventure-bookings/script/user/custom-package-enquire.php on line 8
+[03-May-2019 11:08:55 Etc/GMT] PHP Notice:  Undefined index: txtname in /home/codes36f/public_html/adventure-bookings/script/user/custom-package-enquire.php on line 9
+[03-May-2019 11:08:55 Etc/GMT] PHP Notice:  Undefined index: txtphone in /home/codes36f/public_html/adventure-bookings/script/user/custom-package-enquire.php on line 10
+[03-May-2019 11:08:55 Etc/GMT] PHP Notice:  Undefined index: txtemail in /home/codes36f/public_html/adventure-bookings/script/user/custom-package-enquire.php on line 11
+[03-May-2019 11:08:55 Etc/GMT] PHP Notice:  Undefined variable: id in /home/codes36f/public_html/adventure-bookings/script/user/custom-package-enquire.php on line 23
+[03-May-2019 11:09:36 Etc/GMT] PHP Notice:  Undefined index: txtuserid in /home/codes36f/public_html/adventure-bookings/script/user/custom-package-enquire.php on line 8
+[03-May-2019 11:09:36 Etc/GMT] PHP Notice:  Undefined index: txtname in /home/codes36f/public_html/adventure-bookings/script/user/custom-package-enquire.php on line 9
+[03-May-2019 11:09:36 Etc/GMT] PHP Notice:  Undefined index: txtphone in /home/codes36f/public_html/adventure-bookings/script/user/custom-package-enquire.php on line 10
+[03-May-2019 11:09:36 Etc/GMT] PHP Notice:  Undefined index: txtemail in /home/codes36f/public_html/adventure-bookings/script/user/custom-package-enquire.php on line 11
+[03-May-2019 11:09:36 Etc/GMT] PHP Notice:  Undefined variable: id in /home/codes36f/public_html/adventure-bookings/script/user/custom-package-enquire.php on line 23
+[03-May-2019 11:10:45 Etc/GMT] PHP Notice:  Undefined index: txtuserid in /home/codes36f/public_html/adventure-bookings/script/user/custom-package-enquire.php on line 8
+[03-May-2019 11:10:45 Etc/GMT] PHP Notice:  Undefined index: txtname in /home/codes36f/public_html/adventure-bookings/script/user/custom-package-enquire.php on line 9
+[03-May-2019 11:10:45 Etc/GMT] PHP Notice:  Undefined index: txtphone in /home/codes36f/public_html/adventure-bookings/script/user/custom-package-enquire.php on line 10
+[03-May-2019 11:10:45 Etc/GMT] PHP Notice:  Undefined index: txtemail in /home/codes36f/public_html/adventure-bookings/script/user/custom-package-enquire.php on line 11
+[03-May-2019 11:10:45 Etc/GMT] PHP Notice:  Undefined variable: id in /home/codes36f/public_html/adventure-bookings/script/user/custom-package-enquire.php on line 23
+[03-May-2019 11:10:54 Etc/GMT] PHP Notice:  Undefined index: txtuserid in /home/codes36f/public_html/adventure-bookings/script/user/custom-package-enquire.php on line 8
+[03-May-2019 11:10:54 Etc/GMT] PHP Notice:  Undefined index: txtname in /home/codes36f/public_html/adventure-bookings/script/user/custom-package-enquire.php on line 9
+[03-May-2019 11:10:54 Etc/GMT] PHP Notice:  Undefined index: txtphone in /home/codes36f/public_html/adventure-bookings/script/user/custom-package-enquire.php on line 10
+[03-May-2019 11:10:54 Etc/GMT] PHP Notice:  Undefined index: txtemail in /home/codes36f/public_html/adventure-bookings/script/user/custom-package-enquire.php on line 11
+[03-May-2019 11:10:54 Etc/GMT] PHP Notice:  Undefined variable: id in /home/codes36f/public_html/adventure-bookings/script/user/custom-package-enquire.php on line 23
+[03-May-2019 11:10:55 Etc/GMT] PHP Notice:  Undefined index: txtuserid in /home/codes36f/public_html/adventure-bookings/script/user/custom-package-enquire.php on line 8
+[03-May-2019 11:10:55 Etc/GMT] PHP Notice:  Undefined index: txtname in /home/codes36f/public_html/adventure-bookings/script/user/custom-package-enquire.php on line 9
+[03-May-2019 11:10:55 Etc/GMT] PHP Notice:  Undefined index: txtphone in /home/codes36f/public_html/adventure-bookings/script/user/custom-package-enquire.php on line 10
+[03-May-2019 11:10:55 Etc/GMT] PHP Notice:  Undefined index: txtemail in /home/codes36f/public_html/adventure-bookings/script/user/custom-package-enquire.php on line 11
+[03-May-2019 11:10:55 Etc/GMT] PHP Notice:  Undefined variable: id in /home/codes36f/public_html/adventure-bookings/script/user/custom-package-enquire.php on line 23
+[03-May-2019 11:11:00 Etc/GMT] PHP Notice:  Undefined index: txtuserid in /home/codes36f/public_html/adventure-bookings/script/user/custom-package-enquire.php on line 8
+[03-May-2019 11:11:00 Etc/GMT] PHP Notice:  Undefined index: txtname in /home/codes36f/public_html/adventure-bookings/script/user/custom-package-enquire.php on line 9
+[03-May-2019 11:11:00 Etc/GMT] PHP Notice:  Undefined index: txtphone in /home/codes36f/public_html/adventure-bookings/script/user/custom-package-enquire.php on line 10
+[03-May-2019 11:11:00 Etc/GMT] PHP Notice:  Undefined index: txtemail in /home/codes36f/public_html/adventure-bookings/script/user/custom-package-enquire.php on line 11
+[03-May-2019 11:11:00 Etc/GMT] PHP Notice:  Undefined variable: id in /home/codes36f/public_html/adventure-bookings/script/user/custom-package-enquire.php on line 23
+[03-May-2019 11:11:33 Etc/GMT] PHP Notice:  Undefined index: txtuserid in /home/codes36f/public_html/adventure-bookings/script/user/custom-package-enquire.php on line 8
+[03-May-2019 11:11:33 Etc/GMT] PHP Notice:  Undefined index: txtname in /home/codes36f/public_html/adventure-bookings/script/user/custom-package-enquire.php on line 9
+[03-May-2019 11:11:33 Etc/GMT] PHP Notice:  Undefined index: txtphone in /home/codes36f/public_html/adventure-bookings/script/user/custom-package-enquire.php on line 10
+[03-May-2019 11:11:33 Etc/GMT] PHP Notice:  Undefined index: txtemail in /home/codes36f/public_html/adventure-bookings/script/user/custom-package-enquire.php on line 11
+[03-May-2019 11:11:33 Etc/GMT] PHP Notice:  Undefined variable: id in /home/codes36f/public_html/adventure-bookings/script/user/custom-package-enquire.php on line 23
+[03-May-2019 11:12:43 Etc/GMT] PHP Notice:  Undefined index: txtuserid in /home/codes36f/public_html/adventure-bookings/script/user/custom-package-enquire.php on line 8
+[03-May-2019 11:12:43 Etc/GMT] PHP Notice:  Undefined variable: id in /home/codes36f/public_html/adventure-bookings/script/user/custom-package-enquire.php on line 23
+[03-May-2019 11:14:17 Etc/GMT] PHP Notice:  Undefined index: txtuserid in /home/codes36f/public_html/adventure-bookings/script/user/custom-package-enquire.php on line 8
+[03-May-2019 11:14:17 Etc/GMT] PHP Notice:  Undefined variable: id in /home/codes36f/public_html/adventure-bookings/script/user/custom-package-enquire.php on line 23
+[03-May-2019 11:14:39 Etc/GMT] PHP Notice:  Undefined index: txtuserid in /home/codes36f/public_html/adventure-bookings/script/user/custom-package-enquire.php on line 8
+[03-May-2019 11:14:39 Etc/GMT] PHP Notice:  Undefined variable: id in /home/codes36f/public_html/adventure-bookings/script/user/custom-package-enquire.php on line 23
+[03-May-2019 11:16:26 Etc/GMT] PHP Notice:  Undefined variable: id in /home/codes36f/public_html/adventure-bookings/script/user/custom-package-enquire.php on line 23
+[31-Jul-2019 11:34:20 Etc/GMT] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[28000] [1045] Access denied for user 'root'@'localhost' (using password: NO)' in /home/codes36f/public_html/jalpans.com/script/user/manage-offline-cart.php:2
+Stack trace:
+#0 /home/codes36f/public_html/jalpans.com/script/user/manage-offline-cart.php(2): PDO->__construct('mysql:host=loca...', 'root', '')
+#1 {main}
+  thrown in /home/codes36f/public_html/jalpans.com/script/user/manage-offline-cart.php on line 2
+[31-Jul-2019 11:40:45 Etc/GMT] PHP Notice:  Undefined variable: cookie_name in /home/codes36f/public_html/jalpans.com/script/user/manage-offline-cart.php on line 33
+[31-Jul-2019 11:40:45 Etc/GMT] PHP Notice:  Undefined variable: cookie_value in /home/codes36f/public_html/jalpans.com/script/user/manage-offline-cart.php on line 33
+[31-Jul-2019 11:52:35 Etc/GMT] PHP Notice:  Undefined variable: cookie_data in /home/codes36f/public_html/jalpans.com/script/user/manage-offline-cart.php on line 13
+[31-Jul-2019 11:52:35 Etc/GMT] PHP Notice:  Use of undefined constant cart_data - assumed 'cart_data' in /home/codes36f/public_html/jalpans.com/script/user/manage-offline-cart.php on line 30
+[31-Jul-2019 11:53:28 Etc/GMT] PHP Notice:  Undefined variable: cookie_data in /home/codes36f/public_html/jalpans.com/script/user/manage-offline-cart.php on line 13
+[31-Jul-2019 11:55:49 Etc/GMT] PHP Notice:  Undefined variable: cookie_data in /home/codes36f/public_html/jalpans.com/script/user/manage-offline-cart.php on line 13
+[31-Jul-2019 11:57:16 Etc/GMT] PHP Notice:  unserialize(): Error at offset 0 of 13 bytes in /home/codes36f/public_html/jalpans.com/script/user/manage-offline-cart.php on line 13
+[31-Jul-2019 11:59:28 Etc/GMT] PHP Warning:  json_decode() expects parameter 1 to be string, array given in /home/codes36f/public_html/jalpans.com/script/user/manage-offline-cart.php on line 13
+[01-Aug-2019 09:24:57 Etc/GMT] PHP Notice:  Array to string conversion in /home/codes36f/public_html/jalpans.com/script/user/proceed-order-mobile-send-otp.php on line 29
+[01-Aug-2019 09:25:16 Etc/GMT] PHP Notice:  Array to string conversion in /home/codes36f/public_html/jalpans.com/script/user/proceed-order-mobile-send-otp.php on line 29
+[01-Aug-2019 10:58:46 Etc/GMT] PHP Notice:  Undefined index: status in /home/codes36f/public_html/jalpans.com/script/user/place-order.php on line 28
+[01-Aug-2019 11:04:14 Etc/GMT] PHP Notice:  Undefined index: status in /home/codes36f/public_html/jalpans.com/script/user/place-order.php on line 28
+[01-Aug-2019 11:05:37 Etc/GMT] PHP Notice:  Undefined index: status in /home/codes36f/public_html/jalpans.com/script/user/place-order.php on line 28
+[01-Aug-2019 11:42:49 Etc/GMT] PHP Notice:  Undefined index: status in /home/codes36f/public_html/jalpans.com/script/user/place-order.php on line 32
+[01-Aug-2019 11:52:09 Etc/GMT] PHP Notice:  Undefined index: status in /home/codes36f/public_html/jalpans.com/script/user/place-order.php on line 32
+[01-Aug-2019 11:54:30 Etc/GMT] PHP Warning:  Illegal string offset 'status' in /home/codes36f/public_html/jalpans.com/script/user/place-order.php on line 32
+[01-Aug-2019 11:55:32 Etc/GMT] PHP Warning:  Illegal string offset 'status' in /home/codes36f/public_html/jalpans.com/script/user/place-order.php on line 32
+[01-Aug-2019 11:56:41 Etc/GMT] PHP Warning:  Illegal string offset 'status' in /home/codes36f/public_html/jalpans.com/script/user/place-order.php on line 32
+[05-Sep-2019 11:13:27 Etc/GMT] PHP Notice:  Undefined index: cart_products in /home/codes36f/public_html/jalpans.com/script/user/add-user-comment.php on line 6
+[05-Sep-2019 11:13:27 Etc/GMT] PHP Notice:  Undefined index: productid in /home/codes36f/public_html/jalpans.com/script/user/add-user-comment.php on line 7
+[05-Sep-2019 11:13:27 Etc/GMT] PHP Notice:  Undefined index: productrate in /home/codes36f/public_html/jalpans.com/script/user/add-user-comment.php on line 8
+[05-Sep-2019 11:13:27 Etc/GMT] PHP Notice:  Undefined index: shopid in /home/codes36f/public_html/jalpans.com/script/user/add-user-comment.php on line 9
+[05-Sep-2019 11:34:35 Etc/GMT] PHP Notice:  Undefined index: txtcontectno in /home/codes36f/public_html/jalpans.com/script/user/add-user-comment.php on line 5
+[05-Sep-2019 11:34:35 Etc/GMT] PHP Notice:  Undefined index: txtproductid in /home/codes36f/public_html/jalpans.com/script/user/add-user-comment.php on line 6
+[05-Sep-2019 11:35:25 Etc/GMT] PHP Notice:  Undefined index: txtcontectno in /home/codes36f/public_html/jalpans.com/script/user/add-user-comment.php on line 5
+[05-Sep-2019 11:35:25 Etc/GMT] PHP Notice:  Undefined index: txtproductid in /home/codes36f/public_html/jalpans.com/script/user/add-user-comment.php on line 6
+[05-Sep-2019 11:36:41 Etc/GMT] PHP Notice:  Undefined index: txtcontectno in /home/codes36f/public_html/jalpans.com/script/user/add-user-comment.php on line 5
+[05-Sep-2019 11:36:41 Etc/GMT] PHP Notice:  Undefined index: txtproductid in /home/codes36f/public_html/jalpans.com/script/user/add-user-comment.php on line 6
+[05-Sep-2019 11:38:16 Etc/GMT] PHP Notice:  Undefined index: txtcontectno in /home/codes36f/public_html/jalpans.com/script/user/add-user-comment.php on line 7
+[05-Sep-2019 11:38:16 Etc/GMT] PHP Notice:  Undefined index: txtproductid in /home/codes36f/public_html/jalpans.com/script/user/add-user-comment.php on line 8
+[05-Sep-2019 12:36:03 Etc/GMT] PHP Notice:  Undefined index: cart_products in /home/codes36f/public_html/jalpans.com/script/user/add-update-cart.php on line 6
+[05-Sep-2019 12:36:04 Etc/GMT] PHP Notice:  Undefined index: cart_products in /home/codes36f/public_html/jalpans.com/script/user/add-update-cart.php on line 6
+[05-Sep-2019 12:36:05 Etc/GMT] PHP Notice:  Undefined index: cart_products in /home/codes36f/public_html/jalpans.com/script/user/add-update-cart.php on line 6
+[05-Sep-2019 12:36:05 Etc/GMT] PHP Notice:  Undefined index: cart_products in /home/codes36f/public_html/jalpans.com/script/user/add-update-cart.php on line 6
+[09-Sep-2019 05:38:53 Etc/GMT] PHP Notice:  Undefined index: cart_products in /home/codes36f/public_html/jalpans.com/script/user/add-update-cart.php on line 6
+[13-Aug-2020 17:33:20 UTC] PHP Warning:  Illegal string offset 'status' in /home2/jalpansc/public_html/script/user/proceed-order-mobile-send-otp.php on line 32
+[14-Aug-2020 02:18:46 UTC] PHP Warning:  Illegal string offset 'status' in /home2/jalpansc/public_html/script/user/proceed-order-mobile-send-otp.php on line 32
+[14-Aug-2020 02:19:00 UTC] PHP Warning:  Illegal string offset 'status' in /home2/jalpansc/public_html/script/user/proceed-order-mobile-send-otp.php on line 32
+[14-Aug-2020 02:19:08 UTC] PHP Warning:  Illegal string offset 'status' in /home2/jalpansc/public_html/script/user/proceed-order-mobile-send-otp.php on line 32
+[14-Aug-2020 02:19:23 UTC] PHP Warning:  Illegal string offset 'status' in /home2/jalpansc/public_html/script/user/proceed-order-mobile-send-otp.php on line 32
